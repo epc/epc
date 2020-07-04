@@ -4,6 +4,9 @@ What do I mean by _Consulting CTO_?  I am someone who you brief on your company 
 
 I do not want to be your CTO. I do not want to replace your CTO.  I want to help you avoid the ten thousand easy mistakes made every year by novice CTOs as they navigate the mess they’ve gotten into.
 
+* [LinkedIn](https://www.linkedin.com/in/epcostello)
+* [Résumé](https://epcostello.com/resume/epcostello.pdf)
+
 # Currently working on:
 * [Riskigy](https://riskigy.com/): helping former ibm.com colleague Mike Marrano set up a vCISO/vCTO service in the New York City metropolitan area focused on small–medium financial firms.
 * [Factotum](https://factotum.travel): Trying to answer the question of what if you mixed Tripit with some machine learning.  Suspended for a bit as Covid–19 shakes its way through the world.
