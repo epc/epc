@@ -1,7 +1,7 @@
 # Consulting CTO:
 * plan, review, and manage development of MVPs for companies without a CTO,
 * advise new CTOs on problem solving strategies and approaches,
-* resolve specific, time and domain bounded technology problems.
+* resolve critical time and domain bounded technology problems.
 
 **Contact:** [consulting@epcostello.com](mailto:consulting@epcostello.com)
 
