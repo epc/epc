@@ -5,7 +5,7 @@
 
 **Contact:** [consulting@epcostello.com](mailto:consulting@epcostello.com)
 
-Please do not send me pitches for your company’s services.
-
 * [LinkedIn](https://www.linkedin.com/in/epcostello)
 * [Résumé](https://epcostello.com/resume/epcostello.pdf)
+
+Please do not send me pitches for your company’s services.  I'm not hiring, not outsourcing, and not investing.
