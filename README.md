@@ -3,11 +3,6 @@
 * advise new CTOs on problem solving strategies and approaches,
 * resolve critical time and domain bounded technology problems.
 
-# Virtual CISO:
-* review security of applications and organizations,
-* prepare for ISO27001, SOC2, and other audits,
-* Work performed through [Riskigy](mailto:info@riskigy.com).
-
 # Contact:
 * [e–mail](mailto:consulting@epcostello.com)
 * [LinkedIn](https://www.linkedin.com/in/epcostello)
