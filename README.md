@@ -6,4 +6,6 @@
 # Contact:
 * [e–mail](mailto:consulting@epcostello.com)
 * [LinkedIn](https://www.linkedin.com/in/epcostello)
+* [Twitter](https://twitter.com/epc)
+* [Mastodon](https://mastodon.online/@epc)
 Please do not send me pitches for your company’s services.  I am not hiring, not outsourcing, and not investing.
