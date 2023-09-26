@@ -1,3 +1,3 @@
-On a break.
+I am not actively looking for work.  If you are a recruiter from Google, Apple, Microsoft, or Amazon, please stop and move onto the next profile.
 
-If you came here becaus you saw that I starred a repo, it’s how I bookmark things. It doesn't mean I'm using the code, and it definitely does not mean I want to be hit up by your outbound sales team.
+In a past life I was IBM’s “Corporate Webmaster”. I’ve given up trying to explain the role.
