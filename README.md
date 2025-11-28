@@ -6,7 +6,7 @@ It was approximately 33% HTML jockey, 33% complex systems administration, 33% co
 
 I was simultaneously considered to be the worst possible person to be running IBM’s web infrastructure and yet also completely irreplaceable and required to be involved in anything IBM corporate did on the web.
 
-In retrospect the role kind of sucked.
+On reflection, the role kind of sucked.
 
 I left IBM when the business decided to “pivot” away from the “Internet” market and focus on more important things.
 
